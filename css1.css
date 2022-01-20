@@ -55,10 +55,10 @@ section {
     background-color: 
     #88BB75;
     margin-bottom: 24px;
-    min-height: 320px;
+    min-height: 206px;
     padding-left: 24px;
     padding-right: 24px;
-    width: 45%;
+    width: 40%;
 }
 aside {
     float: left;
@@ -94,7 +94,7 @@ img.grande{
     height:550px;
 }
 img.anuncio {
-    height: 750px;
+    height: 600px;
     width: 100%;
 }
 section {

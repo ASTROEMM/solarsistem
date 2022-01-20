@@ -88,17 +88,17 @@ border-radius: 5px;
 }
 img.mini{
     height:200px;
-    width:80%
+    width:200px;
 }
 img.pequeña{
     height:500px;
 }
 img.grande{
     height:550px;
- widht:90%
+    widht:90%;
 }
 img.anuncio {
-    height: 600px;
+    height: 450px;
     width: 100%;
 }
 section {

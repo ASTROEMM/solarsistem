@@ -58,12 +58,12 @@ section {
     min-height: 206px;
     padding-left: 24px;
     padding-right: 24px;
-    width: 40%;
+    width: 45%;
 }
 aside {
     float: left;
     padding-left: 30px;
-    width: 30%;
+    width: 35%;
     height: 900px;
     background-color: salmon;
 border: 4px solid white;
@@ -85,7 +85,7 @@ img {
 border-radius: 5px;
 }
 img.mini{
-    height:350px;
+    height:200px;
 }
 img.pequeña{
     height:500px;

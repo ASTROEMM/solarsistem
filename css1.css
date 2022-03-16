@@ -68,7 +68,7 @@ aside {
     float: left;
     padding-left: 30px;
     width: 45%;
-    height: 1200px;
+    height: 1150px;
     background-color: salmon;
 border: 4px solid white;
 border-radius: 6px;
@@ -100,7 +100,7 @@ img.grande{
     widht:700px;
 }
 img.anuncio {
-    height: 800px;
+    height: 1000px;
     width: 100%;
 }
 section {

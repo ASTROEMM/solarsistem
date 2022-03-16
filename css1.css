@@ -15,6 +15,8 @@ padding-left: 24px;
 padding-right: 24px;
 height: 100vh;
 }
+h1 {
+ size: 70px;}
 html {
 background: radial-gradient(circle, Black,Black 50%,Black);
 background-size: 8px 8px;

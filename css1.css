@@ -16,7 +16,8 @@ padding-right: 24px;
 height: 100vh;
 }
 h1 {
- size: 70px;}
+ size: 70px;
+}
 html {
 background: radial-gradient(circle, Black,Black 50%,Black);
 background-size: 8px 8px;
@@ -28,6 +29,7 @@ border: 4px solid gray;
 border-radius: 10px;
 font-family:sans-serif;
 font-weight: bold;
+ font-size:50px;
 padding-left:16px;
 padding-right: 16px;
 min-width: 750px;
@@ -70,7 +72,7 @@ font-weight: bold;
 aside {
     float: left;
     padding-left: 30px;
-    width: 48%;
+    width: 45%;
     height: 1150px;
     background-color: salmon;
 border: 4px solid white;
